@@ -1,6 +1,6 @@
 {
   "name": "@yoyo-kikuchi/vue2-lib-sample",
-  "version": "1.0.7",
+  "version": "1.0.10",
   "description": "",
   "main": "dist/vue2-lib-sample.ssr.js",
   "browser": "dist/vue2-lib-sample.esm.js",
