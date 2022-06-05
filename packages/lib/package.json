@@ -1,5 +1,5 @@
 {
-  "name": "@yoyo-kikuchi/vue2-lib-sample",
+  "name": "vue2-lib-sample",
   "version": "1.0.1",
   "description": "",
   "main": "dist/vue2-lib-sample.ssr.js",
@@ -52,5 +52,9 @@
   },
   "engines": {
     "node": ">=12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yoyo-kikuchi/vue2-lib-sample.git"
   }
 }
